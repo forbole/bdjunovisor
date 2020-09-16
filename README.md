@@ -1,4 +1,6 @@
-# Cosmovisor
+# Bdjunovisor
+
+This is fork from [Cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/master/cosmovisor)
 
 This is a tiny shim around Cosmos SDK binaries that use the upgrade
 module that allows for smooth and configurable management of upgrading
